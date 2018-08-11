@@ -1,0 +1,13 @@
+{
+  "name": "alixvances-dog",
+  "version": "1.0.0",
+  "description": "bot to integrate voobly systems and challonge systems",
+  "main": "bot.js",
+  "author": "freemanmtc",
+  "email": "luis@risesoftware.com.br",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "file:node_modules/discord.io",
+    "winston": "file:node_modules/winston"
+  }
+}
